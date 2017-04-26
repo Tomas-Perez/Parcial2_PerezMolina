@@ -1,0 +1,1 @@
+package struct.istruct;public interface BinaryTree <T>{	boolean isEmpty();	T getRoot();	BinaryTree<T> getLeft();	BinaryTree<T> getRight();}
